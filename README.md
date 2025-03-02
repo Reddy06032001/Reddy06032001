@@ -1,5 +1,5 @@
 ### 🚀 Hi, I'm Ashoka M!  
-#### **Full Stack Developer & Trainer at Datavalley.ai**  
+#### **Full Stack Developer & Trainer at RV Institute of Technologies**  
 
 🔹 Passionate **Java Full Stack Developer** skilled in **Java, Spring Boot, React.js, and SQL**  
 🔹 Enthusiastic about **building scalable applications** and **mentoring developers**  
@@ -9,9 +9,9 @@
 
 ### 📊 **GitHub Stats**  
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=reddy0603&show_icons=true&theme=dracula&hide_border=false" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=reddy0603&layout=compact&langs_count=6&theme=dracula&hide_border=false" height="150" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=reddy0603&theme=dracula&hide_border=false" height="150" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Reddy06032001&show_icons=true&theme=dracula&hide_border=false" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Reddy06032001&layout=compact&langs_count=6&theme=dracula&hide_border=false" height="150" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Reddy06032001&theme=dracula&hide_border=false" height="150" alt="GitHub Streak" />
 </div>
 
 ---
